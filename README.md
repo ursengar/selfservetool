@@ -1,1 +1,1 @@
-# selfservetool
+# sst
